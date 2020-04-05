@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="Cp1253"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -12,7 +12,7 @@
     <properties>
         <maven.compiler.source>13</maven.compiler.source>
         <maven.compiler.target>13</maven.compiler.target>
-        <project.build.sourceEncoding>Cp1253</project.build.sourceEncoding>
+        <project.build.sourceEncoding>Utf-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
