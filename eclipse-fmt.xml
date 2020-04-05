@@ -289,7 +289,7 @@
     </profile>
     <configuration>
         <java>
-            <encoding>Utf-8</encoding>
+            <encoding>Cp1252</encoding>
             <!-- ... other steps ... -->
         </java>
         <encoding>US-ASCII</encoding>
